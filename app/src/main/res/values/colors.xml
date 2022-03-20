@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="error">#D61D1D</color>
+    <color name="green">#33A339</color>
+    <color name="blue">#38AAD6</color>
+    <color name="grey_light">#474646</color>
+    <color name="grey">#212221</color>
+
+
+    <color name="colorFragmentBackground">@color/white</color>
+    <color name="colorView">@color/green</color>
+    <color name="colorViewClick">@color/blue</color>
+    <color name="colorText">@color/black</color>
+    <color name="colorRV">@color/white</color>
+    <color name="colorError">@color/error</color>
+    <color name="save">@color/blue</color>
+
+
+
+</resources>
+

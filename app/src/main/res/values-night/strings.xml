@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_cards">У вас пока нет добавленных карт</string>
+    <string name="dark_theme">Тёмная тема</string>
+    <string name="setting">Настройки</string>
+    <string name="about_app">О приложении</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="aboutApp1">Приложение разработано в рамках итоговой работы по курсу мобильно разработки от компании Involta</string>
+    <string name="close">Закрыть</string>
+    <string name="version">Версия: 1.0</string>
+    <string name="dev">Разработчик: Альберт Сафин</string>
+    <string name="for_all_questions">По всем вопросам:</string>
+    <string name="hand_input">Ввести вручную</string>
+    <string name="scan_card">Отсканировать карту</string>
+    <string name="mail">safinal2422@mail.ru</string>
+</resources>

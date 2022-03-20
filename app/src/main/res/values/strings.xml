@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">DiscountCard</string>
+    <string name="no_cards">У вас пока нет добавленных карт</string>
+    <string name="input_card">Введите данные с карты:</string>
+    <string name="text_hint_input_card">Цифры на штрих-коде</string>
+    <string name="text_add_button">Добавить</string>
+    <string name="card_name">Название карты</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete_card">Удалить карту</string>
+    <string name="back">Назад</string>
+    <string name="camera_helper">Наведите камеру на код, изображённый на картe</string>
+    <string name="MyCards">Мои карты</string>
+    <string name="uncorrect_code">Некорректный код. Необходимо ввести 13 цифр под штрихкодом</string>
+    <string name="codeIsNotReading">Код с карты не был считан</string>
+    <string name="Category">Категория</string>
+    <string name="you_want_delete_card">Вы точно хотите удалить карту?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="save">Сохранить</string>
+    <string name="exist_card">Карта с таким именем уже существует</string>
+    <string name="dark_theme">Тёмная тема</string>
+    <string name="setting">Настройки</string>
+    <string name="about_app">О приложении</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="aboutApp1">Приложение разработано в рамках итоговой работы по курсу \"Мобильная разработка\" от компании Involta</string>
+    <string name="close">Закрыть</string>
+    <string name="version">Версия: 1.0</string>
+    <string name="dev">Разработчик: Альберт Сафин</string>
+    <string name="for_all_questions">По всем вопросам:</string>
+    <string name="search_for_cards">Поиск по картам</string>
+    <string name="add_card">Добавить карту</string>
+    <string name="hand_input">Ввести вручную</string>
+    <string name="scan_card">Отсканировать карту</string>
+    <string name="mail">safinal2422@mail.ru</string>
+    <string name="products">Продукты</string>
+    <string name="clothes_and_shoes">Одежда и обувь</string>
+    <string name="health">Красота и здоровье</string>
+    <string name="technics">Бытовая техника и электроника</string>
+    <string name="sport">Спорттовары</string>
+    <string name="other">Другое</string>
+    <string name="exit">Вы уверены, что хотите выйти?</string>
+    <string-array name="Category">
+        <item>Продукты</item>
+        <item>Одежда</item>
+        <item>Автомобиль</item>
+        <item>Бытовая техника</item>
+        <item>Другое</item>
+    </string-array>
+</resources>

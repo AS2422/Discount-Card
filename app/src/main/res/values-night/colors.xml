@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorFragmentBackground">@color/grey</color>
+    <color name="colorView">@color/green</color>
+    <color name="colorViewClick">@color/blue</color>
+    <color name="colorText">@color/white</color>
+    <color name="colorError">@color/error</color>
+    <color name="colorRV">@color/grey_light</color>
+    <color name="save">@color/blue</color>
+    <!-- Secondary brand color. -->
+
+
+</resources>

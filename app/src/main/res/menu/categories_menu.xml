@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    app:theme="@style/Theme.DiscountCard">
+
+    <item
+        android:id="@+id/item_products"
+        android:title="@string/products"
+        app:theme="@style/Theme.DiscountCard"
+        android:icon="@drawable/ic_products2"
+        android:orderInCategory="1"
+        app:iconTint="#53CC59"
+        tools:targetApi="o" />
+    <item
+        android:id="@+id/item_clothes"
+        android:title="@string/clothes_and_shoes"
+        android:icon="@drawable/ic_clothes1"
+        app:theme="@style/Theme.DiscountCard"
+        android:orderInCategory="2"
+        app:iconTint="#AE65BA"
+        tools:targetApi="o" />
+    <item
+        android:id="@+id/item_auto"
+        android:title="@string/health"
+        android:icon="@drawable/ic_health"
+        app:theme="@style/Theme.DiscountCard"
+        android:orderInCategory="3"
+        app:iconTint="#DD5166"
+        tools:targetApi="o" />
+    <item
+        android:id="@+id/item_technics"
+        android:title="@string/technics"
+        android:icon="@drawable/ic_technics"
+        app:theme="@style/Theme.DiscountCard"
+        android:orderInCategory="4"
+        app:iconTint="#229CD3"
+        tools:targetApi="o" />
+    <item
+        android:id="@+id/item_sport"
+        android:title="@string/sport"
+        android:icon="@drawable/ic_sport"
+        app:theme="@style/Theme.DiscountCard"
+        android:orderInCategory="5"
+        app:iconTint="#CA8F39"
+        tools:targetApi="o" />
+
+    <item
+        android:id="@+id/item_other"
+        android:title="@string/other"
+        android:icon="@drawable/ic_other"
+        app:theme="@style/Theme.DiscountCard"
+        android:orderInCategory="6"
+        app:iconTint="#3BB1A6"
+        tools:targetApi="o" />
+</menu>
