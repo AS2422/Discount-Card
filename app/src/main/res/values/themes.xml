@@ -3,7 +3,7 @@
     <style name="Theme.DiscountCard" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/green</item>
-        <item name="colorPrimaryVariant">#195C1E</item>
+        <item name="colorPrimaryVariant">@color/colorFragmentBackground</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/blue</item>

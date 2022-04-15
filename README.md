@@ -3,6 +3,8 @@
 
 Приложение "Карты" позволяет добавлять и хранить в электронном виде любые карты, использующие QR- или штрих-коды
 
+## Скриншоты
+![alt text](screenshots/first.jpg "1")  ![alt text](screenshots/second.jpg "2")  ![alt text](screenshots/third.jpg "3")  ![alt text](screenshots/four.jpg "4")  ![alt text](screenshots/five.jpg "5")
 
 ## Используемый стек
 - MVVM
