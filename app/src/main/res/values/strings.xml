@@ -23,7 +23,7 @@
     <string name="setting">Настройки</string>
     <string name="about_app">О приложении</string>
     <string name="feedback">Обратная связь</string>
-    <string name="aboutApp1">Приложение разработано в рамках итоговой работы по курсу \"Мобильная разработка\" от компании Involta</string>
+    <string name="aboutApp1">Приложение "Карты"</string>
     <string name="close">Закрыть</string>
     <string name="version">Версия: 1.0</string>
     <string name="dev">Разработчик: Альберт Сафин</string>
@@ -40,6 +40,7 @@
     <string name="sport">Спорттовары</string>
     <string name="other">Другое</string>
     <string name="exit">Вы уверены, что хотите выйти?</string>
+    <string name="about_app1">Приложение \"Карты"\: \n \n - имеет возможность хранить и отображать данные о картах пользователя; \n \n - умеет считывать штрих-код с карты посредством камеры; \n \n - при ручном вводе может генерировать штрих или qr-код для карты.</string>
     <string-array name="Category">
         <item>Продукты</item>
         <item>Одежда</item>

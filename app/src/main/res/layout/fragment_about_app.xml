@@ -23,28 +23,12 @@
         android:textSize="15sp"/>
 
     <TextView
-        android:id="@+id/tv_author"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/dev"
-        android:textColor="@color/colorText"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tv_version"
-        android:layout_marginTop="30dp"
-        android:layout_marginStart="30dp"
-        android:fontFamily="@font/calibri"
-        android:layout_marginEnd="30dp"
-        android:textIsSelectable="true"
-        android:textSize="15sp"
-        />
-
-    <TextView
         android:id="@+id/textViewAboutApp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/aboutApp1"
+        android:text="@string/about_app1"
         android:textColor="@color/colorText"
-        app:layout_constraintTop_toBottomOf="@+id/tv_author"
+        app:layout_constraintTop_toBottomOf="@+id/tv_version"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         android:fontFamily="@font/calibri"
@@ -55,7 +39,6 @@
         android:gravity="start"
         android:textIsSelectable="true"
         />
-
 
     <android.widget.Button
         android:id="@+id/button_close"

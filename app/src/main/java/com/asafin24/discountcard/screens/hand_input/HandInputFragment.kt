@@ -129,7 +129,7 @@ class HandInputFragment: Fragment() {
                 } catch (e: WriterException) {
                     e.printStackTrace()
                 } catch (e: IllegalArgumentException) {
-                    binding.tvError.text = "Некорректный код. Необходимо ввести 13 цифр под штрихкодом"
+                    binding.tvError.text = "Некорректный код. Убедитесь, что правильно ввели 13 цифр под штрихкодом"
                     binding.tvError.visibility = View.VISIBLE
                 }
             }

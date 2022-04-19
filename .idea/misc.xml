@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/DiscountCardv1.1/DiscountCard/app/src/main/res/layout/fragment_about_app.xml" value="0.36666666666666664" />
         <entry key="..\:/Android/DiscountCardv1.1/DiscountCard/app/src/main/res/layout/fragment_start.xml" value="0.28306159420289856" />
+        <entry key="..\:/Android/DiscountCardv1.1/DiscountCard/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2785" />
+        <entry key="..\:/Android/DiscountCardv1.1/DiscountCard/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.196" />
       </map>
     </option>
   </component>
